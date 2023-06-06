@@ -38,8 +38,8 @@ npm run test
 
 👤 **d0vak1n**
 
-* Website: https://anonym-us.onrender.com
-* Github: [@d0vak1n](https://github.com/d0vak1n)
+- Website: https://anonym-us.onrender.com
+- Github: [@d0vak1n](https://github.com/d0vak1n)
 
 ## 🤝 Contributing
 
@@ -54,5 +54,4 @@ Give a ⭐️ if this project helped you!
 Copyright © 2023 [d0vak1n](https://github.com/d0vak1n).<br />
 This project is [ISC](https://github.com/d0vak1n/AnonymUs/blob/master/LICENSE) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
