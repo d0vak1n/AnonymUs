@@ -11,10 +11,10 @@ app.get("/", (req: any, res: any) => {
 });
 
 io.on("connection", (socket) => {
-  console.log("a user connected");
+  console.log("Un usuario ha entrado a la sala");
 
   socket.on("chat message", (msg) => {
-    console.log("message: " + msg);
+    console.log("Mensaje: " + msg);
   });
 
   socket.on("chat message", (msg) => {
@@ -22,7 +22,7 @@ io.on("connection", (socket) => {
   });
 
   socket.on("disconnect", () => {
-    console.log("user disconnected");
+    console.log("Un usuario ha salido de la sala");
   });
 });
 
